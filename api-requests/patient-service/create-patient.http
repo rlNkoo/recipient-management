@@ -3,8 +3,8 @@ POST http://localhost:4000/patients
 Content-Type: application/json
 
 {
-  "name": "Artur Patient",
-  "email": "artur@example.com",
+  "name": "Mirek11 Patient",
+  "email": "mirek11@example.com",
   "address": "Blue Street 18",
   "dateOfBirth": "1996-07-18",
   "registeredDate": "2025-04-23"
